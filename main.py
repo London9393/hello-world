@@ -1,8 +1,3 @@
-age = 26
-person = "luis"
-
-if person == "luis":
-    if age == 26:
-        #do somthing 
-    else:
-         #do somthing 
+#print 10 questions
+#have the user enter answer 
+#collect score
