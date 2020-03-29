@@ -3,6 +3,6 @@ person = "luis"
 
 if person == "luis":
     if age == 26:
-        print("Wannkkaaaa")
+        #do somthing 
     else:
-        print("Most probs a top bloke")
+         #do somthing 
